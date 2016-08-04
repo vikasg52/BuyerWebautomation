@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<project name="BuyerWebautomation" />
+<project name="BuyerWebautomation">
     <property name="src.dir" value="src" />
     <property name="lib.dir" value="lib" />
     <property name="log.dir" value="logs" />
